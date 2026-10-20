@@ -1,0 +1,3 @@
+DisplayName,UserPrincipalName,MailNickname,GivenName,Surname,Password
+John Doe,john.doe@yourdomain.onmicrosoft.com,john.doe,John,Doe,SecurePassword123!
+Jane Smith,jane.smith@yourdomain.onmicrosoft.com,jane.smith,Jane,Smith,SecurePassword123!
